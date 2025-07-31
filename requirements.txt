@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+torchvision
+torchaudio
+open_clip_torch
+faiss-cpu
+pillow
+numpy
